@@ -4,8 +4,8 @@
  
 #define TRUE 1
  
-#define TRIG 5
-#define ECHO 6
+#define TRIG 1
+#define ECHO 2
  
 void setup() {
         wiringPiSetup();
